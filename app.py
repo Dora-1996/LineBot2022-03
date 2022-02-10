@@ -96,7 +96,7 @@ def index():
                                         "uri": f"tel:{my_phone}"
                                       }
                                   ]
-                              }
+                                }
                             }
                         ]
                 else:
